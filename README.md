@@ -1,6 +1,8 @@
 Image Gallery
 
-Welcome to my GitHub repository showcasing an image gallery built using Flexbox! This project demonstrates my skills in front-end web development and layout design using modern CSS techniques. Features
+Welcome to my GitHub repository showcasing an image gallery built using Flexbox! This project demonstrates my skills in front-end web development and layout design using modern CSS techniques. 
+
+Features
 
 Responsive Design: The image gallery adapts smoothly to different screen sizes using Flexbox's flexible layout properties. 
 
@@ -11,7 +13,7 @@ CSS (Flexbox)
 
 How to View
 
-You can explore the Flexbox image gallery by visiting (https://aswin-pro.github.io/Image-Gallery/)
+You can explore the Flexbox image gallery by visiting https://aswin-pro.github.io/Image-Gallery/
 
 Contributing
 
